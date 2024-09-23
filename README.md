@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola!👋
+
+My name is Joakin Ugalde, a chilean mechanical engineer interested in digital fabrication, automation and robotics. Knowing how things work and how to make them is what has been leading my career development (and part of my hobbies), that is why I’m currently studying a master of science in mechanical engineering at Politecnico di Milano, specializing on mechatronics and robotics.
+
+I use Github repositories mostly to document my machines and devices.
 
 <!--
 **jkugalde/jkugalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
