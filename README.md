@@ -1,6 +1,6 @@
 ## Hola!👋
 
-My name is Joakin Ugalde, a chilean mechanical engineer interested in digital fabrication, automation and robotics. Knowing how things work and how to make them is what has been leading my career development (and part of my hobbies), that is why I’m currently studying a master of science in mechanical engineering at Politecnico di Milano, specializing on mechatronics and robotics.
+My name is Joakin Ugalde, a chilean mechanical engineer interested in digital fabrication, automation and robotics. Knowing how things work and how to make them is what has been leading my career development (and part of my hobbies), that is why I’m currently studying a master of science in mechanical engineering at Universidad de Chile.
 
 I use Github repositories mostly to document some of my machines and devices, also for some coding. My softwareless creations are on my site in GrabCAD (link on the social bar).
 
